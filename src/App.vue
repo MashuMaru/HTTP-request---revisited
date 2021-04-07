@@ -1,6 +1,6 @@
 <template>
-  <learning-survey ></learning-survey>
-  <user-experiences ></user-experiences>
+  <LearningSurvey />
+  <UserExperiences />
 </template>
 
 <script>
